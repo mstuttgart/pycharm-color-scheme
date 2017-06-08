@@ -17,7 +17,7 @@ This themes works with latest PyCharm editions.
 
 ## Installation
 
-To install themes, copy the `.ycls` files to `~/PyCharm[version]/config/colors`. Restart Pycharm IDE and go to:
+To install themes, copy the `.ycls` files to `~/.PyCharm[version]/config/colors`. Restart Pycharm IDE and go to:
 
 > View->Quick Switch Scheme->Color Scheme
 
