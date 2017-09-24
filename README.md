@@ -1,33 +1,24 @@
-# Pycharm Colour Scheme
-Color Schemes to PyCharm IDE
+# PyCharm Color Scheme
 
-This repository agroup them jetbrains themes created by [Dayle Rees](https://github.com/daylerees/colour-schemes). I made only fix to them work with PyCharm IDE. 
-
-IronLeaf was created by me. :)
-
-## Preview
-
-Instead of spamming this readme file with a thousand screenshots, I've created a page where you can preview all of the schemes in HTML.
-
-[Colour Schemes Demo Page](http://daylerees.github.io/)
-
-## Compatibility
-
-This themes works with latest PyCharm editions.
+Collection of Color Schemes to Jetbrains PyCharm IDE.
 
 ## Installation
 
-To install themes, copy the `.icls` files to `~/.PyCharm[version]/config/colors`. Restart Pycharm IDE and go to:
+1. Download `settings.jar` file: [click here](https://github.com/mstuttgart/pycharm-color-scheme/raw/master/settings.jar)
 
-> View->Quick Switch Scheme->Color Scheme
+1. Go to `File | Import Settings...` in PyCharm IDE and select the downloaded `settings.jar` file. Click `OK` in the dialog that appears.
 
-and choose you favorite color scheme.
+2. Restart `PyCharmIDE`: Go to `File | Invalidate Chaches / Restart...` menu, and click in `Just Restart` button. The PyCharm IDE will be restart.
+
+3. Go to `View | Quick Switch Scheme | Colors Scheme` and select one of the new color themes.
 
 ## Contribute
 
-If you would like to request a colourscheme, an alternate version of an existing scheme, or submit your own theme to the collection simply send an Issue or a Pull request.
+If you would like to request a colors scheme, an alternate version of an existing scheme, or submit your own theme to the collection simply send an Issue or a Pull request.
 
-## Enjoy
+## Credits
 
-This is the important part, enjoy using your new colour scheme!
+This repository group in folders:
 
+* `jetbrains`: Jetbrains themes created by [Dayle Rees](https://github.com/daylerees/colour-schemes). I made only fix to them work with PyCharm IDE.
+* `mythemes`: themes created by me. :)
