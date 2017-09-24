@@ -22,3 +22,5 @@ This repository group in folders:
 
 * `jetbrains`: Jetbrains themes created by [Dayle Rees](https://github.com/daylerees/colour-schemes). I made only fix to them work with PyCharm IDE.
 * `mythemes`: themes created by me. :)
+
+Copyright (c) 2016-2017 Michell Stuttgart
