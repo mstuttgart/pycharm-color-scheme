@@ -16,6 +16,6 @@ touch "IntelliJ IDEA Global Settings"
 jar cfM settings.jar "IntelliJ IDEA Global Settings" ${COLOR_FOLDER}
 
 # Remove temporary folders and files
-rm -rf colors
+rm -rf ${COLOR_FOLDER}
 rm "IntelliJ IDEA Global Settings"
 
